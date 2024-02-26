@@ -1,25 +1,26 @@
 # Lern-Periode 4
 
-Max Muster
+Twin Jegan
 
 20.2 bis 2.4.2024
 
 ## Grob-Planung
 
-1. Wo stehen Sie mit Ihren Noten? In welchen Modulen waren Sie besonders stark; in welchen sind die ungenügend? Welche davon sind besonders wichtig?
+1. Ich stehe gerade bei einem 4.5 und bin in keinem modul ungenügend
 2. Was hatten Sie sich am Ende von LP2 vorgenommen? Was war Ihr VBV? Wie könnten Sie diesen besonders gut üben?
-3. **Neu**: Was möchten Sie Neues lernen?
-4. Was wäre ein geeignetes Projekt für diese LP4?
+3. **Neu**: Ich will einen eigenen Website erstellen
+4. Ich will einen eigenen Website erstellen, dabei soll die Website Statistiken anzeigen wie Ergebnisse einer Fussballmannschaft.
+Da mein Vater schon ein Fussballclub besitzt habe ich mich dazu entschieden für die Mannschaft einen eigenen Webseite zu erstellen.
 
 ## 20.2.2024
 
-✍️ Heute habe ich... (50-100 Wörter)
+✍️ Heute habe ich paar Videos angeschaut wie man ein Website erstellt und herausgefunden das man dabei einen domain braucht.
 
 ## 27.2.2024
 
-- [ ] Erstes Arbeitspaket
-- [ ] ...
-- [ ] Viertes AP
+- [ ] domain erstellen mit wix (kostenlos)
+- [ ] Paar Videos anschauen zum wissen wie es funktioniert
+- [ ] Anfangen zu gestalten
 
 | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
 | --------------- | -------------------- | -------------- | -------------- | -------- |
