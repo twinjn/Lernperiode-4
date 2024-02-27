@@ -28,11 +28,16 @@ Da mein Vater schon ein Fussballclub besitzt habe ich mich dazu entschieden für
 | ...             |                      |                |                |          |
 | 4               |                      |                |                |          |
 
-✍️ Heute habe ich... (50-100 Wörter)
+✍️ Heute habe ich anstatt an der Website-Entwicklung weiterhin am Modul 164 SQL gearbeitet, da morgen die Abgabe ansteht und wir fertig werden müssen. Im Rahmen von SQL habe ich ein logisches Datenmodell in ein physisches umgeschrieben. Dabei habe ich für die Tabellen einige Testfälle herausgesucht und dabei sind mir einige Fehler aufgefallen, die ich korrigiert habe.(57 Wörter)
 
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen, und in der Spalte **Erfüllt?** einzutragen, ob Ihr Code die Test-Fälle erfüllt
 
+## 5.3.2024
 
+- [ ] Ich erstelle ein domain mit wix (kostenlos)
+- [ ] Ich habe schon eine Planung gemacht dazu probiere ich sie umzusetzen. Zuerst fange ich mit dem Homepage an (Planung stehen die Ziele)
+- [ ] Danach schreibe ich ein (about us) über die Mannschaft.
+- [ ] Jetzt erstelle ich eine Zweite Seite indem ich die Bilder der Spieler einfüge und es gestalte.(Player Gallerie)
 
 ## Reflexion
 
