@@ -43,4 +43,11 @@ https://drive.google.com/drive/mobile/folders/1aBe1DJNpByqvwmf6riosrXMupGldWlIa/
 
 ## Reflexion
 
-Formen Sie Ihre Zusammenfassungen in Hinblick auf Ihren VBV zu einem zusammenhängenden Text von 100 bis 200 Wörtern (wieder mit Angabe in Klammern).
+Heute habe ich wieder an etwas anderes gearbeitet da ich im Moodle 187 hinterdrin war und dies noch fertig machen musste. Im Moodle 187 habe ich die Aufgabe 0701 und 0702 gemacht. Im 0702 habe ich mit einem Drucker auseinander gesetzt und mich mit den Komponenten vertraut gemacht. Daher fange ich mit dem Website Projekt nächste woche an.
+
+## 12.3.2024
+
+- [ ] Ich erstelle ein domain mit wix (kostenlos)
+- [ ] Ich habe schon eine Planung gemacht dazu probiere ich sie umzusetzen. Zuerst fange ich mit dem Homepage an (Planung stehen die Ziele)
+- [ ] Danach schreibe ich ein (about us) über die Mannschaft.
+- [ ] Jetzt erstelle ich eine Zweite Seite indem ich die Bilder der Spieler einfüge und es gestalte.(Player Gallerie)
